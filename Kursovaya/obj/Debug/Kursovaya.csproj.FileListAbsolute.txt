@@ -1,0 +1,15 @@
+E:\С#\Kursovaya\bin\Debug\Kursovaya.exe.config
+E:\С#\Kursovaya\bin\Debug\Kursovaya.exe
+E:\С#\Kursovaya\bin\Debug\Kursovaya.pdb
+E:\С#\Kursovaya\bin\Debug\OxyPlot.dll
+E:\С#\Kursovaya\bin\Debug\OxyPlot.WindowsForms.dll
+E:\С#\Kursovaya\bin\Debug\OxyPlot.xml
+E:\С#\Kursovaya\bin\Debug\OxyPlot.WindowsForms.xml
+E:\С#\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+E:\С#\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+E:\С#\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+E:\С#\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+E:\С#\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+E:\С#\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+E:\С#\Kursovaya\obj\Debug\Kursovaya.exe
+E:\С#\Kursovaya\obj\Debug\Kursovaya.pdb

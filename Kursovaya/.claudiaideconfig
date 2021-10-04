@@ -1,0 +1,22 @@
+﻿{
+  "BackgroundImageAbsolutePath": "C:\\Users\\Maksim\\Desktop\\tatsumaki.jpg",
+  "BackgroundImagesDirectoryAbsolutePath": "c:\\users\\maksim\\appdata\\local\\microsoft\\visualstudio\\16.0_775409f4\\extensions\\vn2ngbiz.5oc\\Images",
+  "ExpandToIDE": false,
+  "Extensions": ".png, .jpg, .gif, .bmp",
+  "ImageBackgroundType": 0,
+  "ImageFadeAnimationInterval": "PT0S",
+  "ImageStretch": 3,
+  "IsLimitToMainlyEditorWindow": false,
+  "LoopSlideshow": true,
+  "MaxHeight": 1920,
+  "MaxWidth": 1080,
+  "Opacity": 0.35,
+  "PositionHorizon": 2,
+  "PositionVertical": 1,
+  "ShuffleSlideshow": false,
+  "SoftEdgeX": 0,
+  "SoftEdgeY": 0,
+  "UpdateImageInterval": "PT1M",
+  "ViewBoxPointX": 0,
+  "ViewBoxPointY": 0
+}
